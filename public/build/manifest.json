@@ -1,0 +1,79 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-5942c36e.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-d18c9ebe.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/itrmc-logo-44558f90.png",
+      "assets/opcen-logo-8945661a.png",
+      "assets/hospital-clinic-icon-eba2f35e.svg",
+      "assets/ambulance-icon-1e2a6d7f.svg",
+      "assets/driver-icon-e70b2573.svg",
+      "assets/group-icon-f8b2d633.svg",
+      "assets/map-route-e15cef7d.svg",
+      "assets/stopwatch-19d32652.svg"
+    ],
+    "css": [
+      "assets/app-d18c9ebe.css"
+    ],
+    "dynamicImports": [
+      "resources/opcen/components/layout/TopNavigation.vue"
+    ],
+    "file": "assets/app-9cea0f86.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/opcen/assets/img/ambulance-icon.svg": {
+    "file": "assets/ambulance-icon-1e2a6d7f.svg",
+    "src": "resources/opcen/assets/img/ambulance-icon.svg"
+  },
+  "resources/opcen/assets/img/default-avatar.png": {
+    "file": "assets/default-avatar-1dd220e8.png",
+    "src": "resources/opcen/assets/img/default-avatar.png"
+  },
+  "resources/opcen/assets/img/driver-icon.svg": {
+    "file": "assets/driver-icon-e70b2573.svg",
+    "src": "resources/opcen/assets/img/driver-icon.svg"
+  },
+  "resources/opcen/assets/img/group-icon.svg": {
+    "file": "assets/group-icon-f8b2d633.svg",
+    "src": "resources/opcen/assets/img/group-icon.svg"
+  },
+  "resources/opcen/assets/img/hospital-clinic-icon.svg": {
+    "file": "assets/hospital-clinic-icon-eba2f35e.svg",
+    "src": "resources/opcen/assets/img/hospital-clinic-icon.svg"
+  },
+  "resources/opcen/assets/img/itrmc-logo.png": {
+    "file": "assets/itrmc-logo-44558f90.png",
+    "src": "resources/opcen/assets/img/itrmc-logo.png"
+  },
+  "resources/opcen/assets/img/map-route.svg": {
+    "file": "assets/map-route-e15cef7d.svg",
+    "src": "resources/opcen/assets/img/map-route.svg"
+  },
+  "resources/opcen/assets/img/opcen-logo.png": {
+    "file": "assets/opcen-logo-8945661a.png",
+    "src": "resources/opcen/assets/img/opcen-logo.png"
+  },
+  "resources/opcen/assets/img/stopwatch.svg": {
+    "file": "assets/stopwatch-19d32652.svg",
+    "src": "resources/opcen/assets/img/stopwatch.svg"
+  },
+  "resources/opcen/components/layout/TopNavigation.vue": {
+    "assets": [
+      "assets/default-avatar-1dd220e8.png"
+    ],
+    "file": "assets/TopNavigation-71b23e6f.js",
+    "imports": [
+      "resources/js/app.js"
+    ],
+    "isDynamicEntry": true,
+    "src": "resources/opcen/components/layout/TopNavigation.vue"
+  }
+}
